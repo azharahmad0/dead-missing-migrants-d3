@@ -1,0 +1,1 @@
+A visualisation of two charts, firstly a bubble chart to show missing/dead migrants across the globe, and secondly overlayed on top of this is a missing/dead migrants over time, to hopefully better analyse said data.

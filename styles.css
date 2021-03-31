@@ -1,0 +1,44 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  overflow: hidden;
+}
+pre {
+  font-size: 5rem;
+}
+/* bubble worldmap css */
+.marks .sphere {
+  fill: #FAFAFA;
+}
+.marks .land {
+  fill: #EFECEA;
+  stroke: #E5E2E0;
+}
+.marks .interiors {
+  fill: none;
+  stroke: #C0C0BB;
+}
+.marks .graticules {
+  fill: none;
+  stroke: #EFECEA;
+}
+circle {
+  fill: #137B80;
+  opacity: 0.3;
+}
+
+/* date histogram css */
+.tick line {
+  stroke: #EFECEA;
+}
+.tick text {
+  fill: #635F5D;
+  font-size: 0.5em;
+}
+.mark {
+  fill: #005D6E;
+}
+.axis-label {
+  font-size: 0.5em;
+  fill: #635F5D;
+}
